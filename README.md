@@ -1,9 +1,3 @@
 # Ensayo2
-Ensayo 1
-
-Autor: Dahiana Peláez Gómez
-
-
-
-
-mas lineas
+Aqui no va nada.
+Documentacion desarrollador 2.
